@@ -139,14 +139,14 @@ Open `simplernn.ipynb` and run all cells to preprocess the IMDB dataset, train t
 "This movie was absolutely fantastic! The acting was superb, and the plot kept me engaged throughout."
 ```
 **Output:**  
-Sentiment: **Positive**, Prediction Score: ~0.85
+Sentiment: **Positive**, Prediction Score: ~ 0.78
 
 **Input a Review:**
 ```
 "The movie was boring and poorly acted. I wouldn't recommend it."
 ```
 **Output:**  
-Sentiment: **Negative**, Prediction Score: ~0.32
+Sentiment: **Negative**, Prediction Score: ~0.043
 
 ---
 
@@ -173,11 +173,6 @@ streamlit
 scikeras
 ```
 
----
-
-## Contributing
-
-Feel free to fork this repository, create a feature branch, and submit a pull request with improvements or bug fixes.
 
 ---
 
